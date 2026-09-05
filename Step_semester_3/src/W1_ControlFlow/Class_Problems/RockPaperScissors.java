@@ -1,3 +1,5 @@
+package W1_ControlFlow.Class_Problems;
+
 import java.util.*;
 
 public class RockPaperScissors {
