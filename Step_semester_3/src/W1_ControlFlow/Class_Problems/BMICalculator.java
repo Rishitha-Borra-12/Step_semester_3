@@ -1,0 +1,56 @@
+package W1_ControlFlow.Class_Problems;
+
+import java.util.Scanner;
+
+public class BMICalculator {
+
+    static String getBmiStatus(double bmi) {
+        if (bmi < 18.5) {
+            return "Underweight";
+        } else if (bmi <= 24.9) {
+            return "Normal";
+        } else if (bmi <= 29.9) {
+            return "Overweight";
+        } else {
+            return "Obese";
+        }
+    }
+
+    static void printWellnessReport(double[] heights, double[] weights) {
+        System.out.println("\nWellness Report");
+        System.out.println("Person  Height(m)  Weight(kg)  BMI  Status");
+
+        for (int i = 0; i < heights.length; i++) {
+            double bmi = weights[i] / (heights[i] * heights[i]);
+            String status = getBmiStatus(bmi);
+
+            System.out.println((i + 1) + "       " +
+                    heights[i] + "       " +
+                    weights[i] + "       " +
+                    bmi + "  " +
+                    status);
+        }
+    }
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        int n = 10;
+
+        double[] heights = new double[n];
+        double[] weights = new double[n];
+
+        for (int i = 0; i < n; i++) {
+            System.out.print("Enter height of Person " + (i + 1) + " in meters: ");
+            heights[i] = sc.nextDouble();
+
+            System.out.print("Enter weight of Person " + (i + 1) + " in kg: ");
+            weights[i] = sc.nextDouble();
+        }
+
+        printWellnessReport(heights, weights);
+
+        sc.close();
+    }
+}
