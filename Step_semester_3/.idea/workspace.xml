@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaed1929-ff6f-4eaf-8ab8-244be8c463df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/HallTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Payroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/HW_Problems/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Employee_Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/HW_Problems/Employee_Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/HallTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/HW_Problems/HallTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/HW_Problems/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Payroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/HW_Problems/Payroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Homework_Problems/CourseCredit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/CourseCredit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Homework_Problems/HostelMess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/HostelMess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Homework_Problems/ID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/ID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Homework_Problems/Placement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Placement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Homework_Problems/Student_College.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Student_College.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +33,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "feature/session__6"
+    "git-widget-placeholder": "feature/session__6",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": ""
   }
 }]]></component>
   <component name="SharedIndexes">
