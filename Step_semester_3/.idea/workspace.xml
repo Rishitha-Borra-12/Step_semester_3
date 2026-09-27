@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaed1929-ff6f-4eaf-8ab8-244be8c463df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/W7_ControlFlow/Class_problems/Attendance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/W7_ControlFlow/Class_problems/Locker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/W7_ControlFlow/Class_problems/Nickname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/W7_ControlFlow/Class_problems/PIggyBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/W7_ControlFlow/Class_problems/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/W7_ControlFlow/HW_problems/Health.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/HW_Problems/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Employee_Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/HW_Problems/Employee_Company.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/HallTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/HW_Problems/HallTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/HW_Problems/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Payroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/HW_Problems/Payroll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Homework_Problems/CourseCredit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/CourseCredit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Homework_Problems/HostelMess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/HostelMess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Homework_Problems/ID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/ID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Homework_Problems/Placement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Placement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/W6_ControlFlow/Homework_Problems/Student_College.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W6_ControlFlow/Class_Problems/Student_College.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +18,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JXjzbLWmSQJDGt96B5Ny7wxDA6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,11 +29,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "feature/session__6",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "feature/session__7",
+    "kotlin-language-version-configured": "true",
     "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": ""
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Step_semester_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Step_semester_3" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,6 +62,13 @@
     </attachedChunks>
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaed1929-ff6f-4eaf-8ab8-244be8c463df" name="Changes" comment="" />
+      <created>1790221693176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790221693176</updated>
+    </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
